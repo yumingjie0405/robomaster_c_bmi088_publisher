@@ -1,0 +1,7 @@
+/build
+/devel
+/logs
+/src/*/build
+/src/*/devel
+*.pyc
+
